@@ -1,2 +1,2 @@
-# settl-program
-Smart contract
+# settl
+Payment gateway 

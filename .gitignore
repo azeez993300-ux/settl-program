@@ -1,0 +1,12 @@
+.env
+.env.local
+/target/
+**/target/
+*.rs.bk
+
+node-modules/
+.yarn/
+.yarn-cache/
+dist/
+
+build/
